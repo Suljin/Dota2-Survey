@@ -1,5 +1,5 @@
 # Dota2-Survey
-Reddit survey regarding Dota 2 and forums using clustering to label different groups to better understand marketing
+Reddit survey regarding Dota 2 and Reddit forums, using clustering to label different groups and improve marketing
 
 Downloaded data from Kaggle: https://www.kaggle.com/johannbactad/subreddit-survey-dota-2-january-2019
 
