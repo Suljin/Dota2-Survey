@@ -1,5 +1,7 @@
 # Dota2-Survey
-Reddit survey regarding Dota 2 and Reddit forums, using clustering to label different groups and improve marketing
+Springboard Career Track project 2 on sentiment analysis from Reddit Survey
+
+Reddit survey regarding Dota 2 and Reddit forums, using clustering to label different groups and improve marketing understanding
 
 Downloaded data from Kaggle: https://www.kaggle.com/johannbactad/subreddit-survey-dota-2-january-2019
 
